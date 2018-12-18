@@ -1,8 +1,9 @@
 # Katacoda Training
 
-Scenarios Completed. 2   
-Points. 20
+Scenarios Completed. 3   
+Points. 30
 
-Docker & Containers
+## Docker & Containers
 - Deploying Your First Docker Container
 - Deploy Static HTML Website as Container
+- Building Container Images
