@@ -1,7 +1,7 @@
 # Katacoda Training
 
-Scenarios Completed. 6   
-Points. 60
+Scenarios Completed. 7   
+Points. 70
 
 ## Docker & Containers
 - Deploying Your First Docker Container
@@ -10,3 +10,4 @@ Points. 60
 - Dockerizing Node.js
 - Optimise Builds With Docker OnBuild
 - Ignoring Files During Build
+- Create Data Containers
