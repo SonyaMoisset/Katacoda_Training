@@ -1,7 +1,7 @@
 # Katacoda Training
 
-Scenarios Completed. 8   
-Points. 80
+Scenarios Completed. 9   
+Points. 90
 
 ## Docker & Containers
 - Deploying Your First Docker Container
@@ -12,3 +12,4 @@ Points. 80
 - Ignoring Files During Build
 - Create Data Containers
 - Creating Networks Between Containers using Links
+- Creating Networks Between Containers using Networks
