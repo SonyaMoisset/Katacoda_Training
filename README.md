@@ -1,7 +1,7 @@
 # Katacoda Training
 
-Scenarios Completed. 13   
-Points. 130
+Scenarios Completed. 14   
+Points. 140
 
 ## Docker & Containers
 - Deploying Your First Docker Container
@@ -17,3 +17,4 @@ Points. 130
 - Manage Container Log Files
 - Ensuring Container Uptime With Restart Policies
 - Adding Docker Metadata & Labels
+- Load Balancing Containers
