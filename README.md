@@ -1,7 +1,7 @@
 # Katacoda Training
 
-Scenarios Completed. 10   
-Points. 100
+Scenarios Completed. 11   
+Points. 110
 
 ## Docker & Containers
 - Deploying Your First Docker Container
@@ -14,3 +14,4 @@ Points. 100
 - Creating Networks Between Containers using Links
 - Creating Networks Between Containers using Networks
 - Persisting Data Using Volumes
+- Manage Container Log Files
