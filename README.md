@@ -19,3 +19,4 @@ Points. 140
 - Adding Docker Metadata & Labels
 - Load Balancing Containers
 - Orchestration using Docker Compose
+- See Container Metrics With Docker Stats
