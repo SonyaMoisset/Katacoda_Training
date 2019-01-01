@@ -18,3 +18,4 @@ Points. 140
 - Ensuring Container Uptime With Restart Policies
 - Adding Docker Metadata & Labels
 - Load Balancing Containers
+- Orchestration using Docker Compose
