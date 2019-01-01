@@ -20,3 +20,4 @@ Points. 140
 - Load Balancing Containers
 - Orchestration using Docker Compose
 - See Container Metrics With Docker Stats
+- Creating Optimised Docker Images using Multi-Stage Builds
