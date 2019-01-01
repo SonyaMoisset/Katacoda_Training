@@ -1,7 +1,7 @@
 # Katacoda Training
 
-Scenarios Completed. 14   
-Points. 140
+Scenarios Completed. 19   
+Points. 190
 
 ## Docker & Containers
 - Deploying Your First Docker Container
@@ -22,3 +22,4 @@ Points. 140
 - See Container Metrics With Docker Stats
 - Creating Optimised Docker Images using Multi-Stage Builds
 - Formatting PS Output
+- Learn Docker Swarm 101
